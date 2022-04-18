@@ -20,3 +20,14 @@
 
 To use the page builder, select the **Page Builder** template when creating a new page.
 
+## Links
+- https://www.gatsbyjs.com/showcase/
+- https://bejamas.io/compare/nextjs-vs-jekyll/
+- https://cloudcannon.com/blog/jekyll-vs-hugo-choosing-the-right-tool-for-the-job/#:~:text=Jekyll%20uses%20Liquid%20as%20its,learn%20Jekyll's%20syntax%20than%20Hugo's.&text=Even%20without%20any%20Ruby%20experience,clear%20in%20the%20Jekyll%20example.
+- https://www.11ty.dev/
+- https://www.gatsbyjs.com/docs/how-to/sourcing-data/headless-cms/
+- https://gohugo.io/
+- https://forestryio.github.io/ubuild-jekyll/#swap
+- https://forestry.io/docs/settings/content-sections/#examples
+- https://forestry.io/docs/previews/build-commands/
+- https://app.forestry.io/sites/lhg1pwqhetwrna/#/settings/previews
